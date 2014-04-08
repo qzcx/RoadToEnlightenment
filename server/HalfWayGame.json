@@ -1,0 +1,3708 @@
+{
+  "deck": {
+    "yearOfPlenty": 2,
+    "monopoly": 2,
+    "soldier": 14,
+    "roadBuilding": -1,
+    "monument": 5
+  },
+  "map": {
+    "hexGrid": {
+      "hexes": [
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": 0,
+              "y": -3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 1,
+              "y": -3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 2,
+              "y": -3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 3,
+              "y": -3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": -1,
+              "y": -2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 0,
+              "y": -2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 1,
+              "y": -2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Ore"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 2,
+              "y": -2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              }
+            ],
+            "landtype": "Brick"
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 3,
+              "y": -2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": -2,
+              "y": -1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -1,
+              "y": -1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 2,
+                  "ownerID": 3
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              }
+            ],
+            "landtype": "Ore"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 0,
+              "y": -1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 3
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              }
+            ],
+            "landtype": "Sheep"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 1,
+              "y": -1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              }
+            ],
+            "landtype": "Wood"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 2,
+              "y": -1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              }
+            ],
+            "landtype": "Ore"
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 3,
+              "y": -1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": -3,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -2,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 2,
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Wheat"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -1,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 2,
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              }
+            ],
+            "landtype": "Brick"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 0,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 3
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Sheep"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 1,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Wheat"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 2,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              }
+            ],
+            "landtype": "Wheat"
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 3,
+              "y": 0
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": -3,
+              "y": 1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -2,
+              "y": 1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              }
+            ],
+            "landtype": "Wood"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -1,
+              "y": 1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Sheep"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 0,
+              "y": 1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Sheep"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 1,
+              "y": 1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Brick"
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 2,
+              "y": 1
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": -3,
+              "y": 2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -2,
+              "y": 2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 0
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Wheat"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": -1,
+              "y": 2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Wood"
+          },
+          {
+            "isLand": true,
+            "location": {
+              "x": 0,
+              "y": 2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 1,
+                  "ownerID": 2
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ],
+            "landtype": "Wood"
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 1,
+              "y": 2
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "isLand": false,
+            "location": {
+              "x": -3,
+              "y": 3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": -2,
+              "y": 3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": -1,
+              "y": 3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          },
+          {
+            "isLand": false,
+            "location": {
+              "x": 0,
+              "y": 3
+            },
+            "vertexes": [
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "worth": 0,
+                  "ownerID": -1
+                }
+              }
+            ],
+            "edges": [
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              },
+              {
+                "value": {
+                  "ownerID": -1
+                }
+              }
+            ]
+          }
+        ]
+      ],
+      "offsets": [
+        3,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "radius": 4,
+      "x0": 3,
+      "y0": 3
+    },
+    "radius": 4,
+    "numbers": {
+      "2": [
+        {
+          "x": 1,
+          "y": 0
+        }
+      ],
+      "3": [
+        {
+          "x": -2,
+          "y": 2
+        },
+        {
+          "x": -1,
+          "y": 2
+        }
+      ],
+      "4": [
+        {
+          "x": 2,
+          "y": -2
+        },
+        {
+          "x": 0,
+          "y": -1
+        }
+      ],
+      "5": [
+        {
+          "x": 1,
+          "y": -2
+        },
+        {
+          "x": 1,
+          "y": 1
+        }
+      ],
+      "6": [
+        {
+          "x": -1,
+          "y": 1
+        },
+        {
+          "x": 0,
+          "y": 1
+        }
+      ],
+      "8": [
+        {
+          "x": -2,
+          "y": 1
+        },
+        {
+          "x": 0,
+          "y": 2
+        }
+      ],
+      "9": [
+        {
+          "x": -1,
+          "y": -1
+        },
+        {
+          "x": -1,
+          "y": 0
+        }
+      ],
+      "10": [
+        {
+          "x": 1,
+          "y": -1
+        },
+        {
+          "x": -2,
+          "y": 0
+        }
+      ],
+      "11": [
+        {
+          "x": 0,
+          "y": 0
+        },
+        {
+          "x": 2,
+          "y": 0
+        }
+      ],
+      "12": [
+        {
+          "x": 2,
+          "y": -1
+        }
+      ]
+    },
+    "ports": [
+      {
+        "location": {
+          "x": -3,
+          "y": 0
+        },
+        "orientation": "SE",
+        "ratio": 3,
+        "validVertex1": {
+          "x": -3,
+          "y": 0,
+          "direction": "E"
+        },
+        "validVertex2": {
+          "x": -3,
+          "y": 0,
+          "direction": "SE"
+        }
+      },
+      {
+        "inputResource": "Brick",
+        "location": {
+          "x": -3,
+          "y": 2
+        },
+        "orientation": "NE",
+        "ratio": 2,
+        "validVertex1": {
+          "x": -3,
+          "y": 2,
+          "direction": "NE"
+        },
+        "validVertex2": {
+          "x": -3,
+          "y": 2,
+          "direction": "E"
+        }
+      },
+      {
+        "inputResource": "Wood",
+        "location": {
+          "x": 1,
+          "y": -3
+        },
+        "orientation": "S",
+        "ratio": 2,
+        "validVertex1": {
+          "x": 1,
+          "y": -3,
+          "direction": "SE"
+        },
+        "validVertex2": {
+          "x": 1,
+          "y": -3,
+          "direction": "SW"
+        }
+      },
+      {
+        "inputResource": "Sheep",
+        "location": {
+          "x": -1,
+          "y": -2
+        },
+        "orientation": "S",
+        "ratio": 2,
+        "validVertex1": {
+          "x": -1,
+          "y": -2,
+          "direction": "SE"
+        },
+        "validVertex2": {
+          "x": -1,
+          "y": -2,
+          "direction": "SW"
+        }
+      },
+      {
+        "location": {
+          "x": -2,
+          "y": 3
+        },
+        "orientation": "NE",
+        "ratio": 2,
+        "validVertex1": {
+          "x": -2,
+          "y": 3,
+          "direction": "NE"
+        },
+        "validVertex2": {
+          "x": -2,
+          "y": 3,
+          "direction": "E"
+        }
+      },
+      {
+        "inputResource": "Ore",
+        "location": {
+          "x": 3,
+          "y": -3
+        },
+        "orientation": "SW",
+        "ratio": 3,
+        "validVertex1": {
+          "x": 3,
+          "y": -3,
+          "direction": "SW"
+        },
+        "validVertex2": {
+          "x": 3,
+          "y": -3,
+          "direction": "W"
+        }
+      },
+      {
+        "inputResource": "Wheat",
+        "location": {
+          "x": 0,
+          "y": 3
+        },
+        "orientation": "N",
+        "ratio": 3,
+        "validVertex1": {
+          "x": 0,
+          "y": 3,
+          "direction": "NW"
+        },
+        "validVertex2": {
+          "x": 0,
+          "y": 3,
+          "direction": "NE"
+        }
+      },
+      {
+        "location": {
+          "x": 3,
+          "y": -1
+        },
+        "orientation": "NW",
+        "ratio": 2,
+        "validVertex1": {
+          "x": 3,
+          "y": -1,
+          "direction": "W"
+        },
+        "validVertex2": {
+          "x": 3,
+          "y": -1,
+          "direction": "NW"
+        }
+      },
+      {
+        "location": {
+          "x": 2,
+          "y": 1
+        },
+        "orientation": "NW",
+        "ratio": 3,
+        "validVertex1": {
+          "x": 2,
+          "y": 1,
+          "direction": "W"
+        },
+        "validVertex2": {
+          "x": 2,
+          "y": 1,
+          "direction": "NW"
+        }
+      }
+    ],
+    "robber": {
+      "x": 1,
+      "y": 0
+    }
+  },
+  "players": [
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 1,
+        "wood": 2,
+        "sheep": 1,
+        "wheat": 3,
+        "ore": 0
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "roads": 11,
+      "cities": 4,
+      "settlements": 2,
+      "soldiers": 0,
+      "victoryPoints": 3,
+      "monuments": 0,
+      "longestRoad": false,
+      "largestArmy": false,
+      "playedDevCard": false,
+      "discarded": true,
+      "playerID": 0,
+      "orderNumber": 0,
+      "name": "Adam",
+      "color": "red"
+    },
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 0,
+        "wood": 5,
+        "sheep": 1,
+        "wheat": 0,
+        "ore": 4
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "roads": 11,
+      "cities": 4,
+      "settlements": 3,
+      "soldiers": 0,
+      "victoryPoints": 2,
+      "monuments": 0,
+      "longestRoad": false,
+      "largestArmy": false,
+      "playedDevCard": false,
+      "discarded": true,
+      "playerID": 3,
+      "orderNumber": 1,
+      "name": "Garrett",
+      "color": "blue"
+    },
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 5,
+        "wood": 0,
+        "sheep": 1,
+        "wheat": 1,
+        "ore": 0
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "roads": 11,
+      "cities": 4,
+      "settlements": 3,
+      "soldiers": 0,
+      "victoryPoints": 2,
+      "monuments": 0,
+      "longestRoad": false,
+      "largestArmy": false,
+      "playedDevCard": false,
+      "discarded": true,
+      "playerID": 2,
+      "orderNumber": 2,
+      "name": "June",
+      "color": "orange"
+    },
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 4,
+        "wood": 0,
+        "sheep": 0,
+        "wheat": 1,
+        "ore": 0
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 1,
+        "monument": 0
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 1,
+        "monument": 0
+      },
+      "roads": 9,
+      "cities": 3,
+      "settlements": 4,
+      "soldiers": 0,
+      "victoryPoints": 5,
+      "monuments": 0,
+      "longestRoad": true,
+      "largestArmy": false,
+      "playedDevCard": true,
+      "discarded": true,
+      "playerID": 1,
+      "orderNumber": 3,
+      "name": "Steve",
+      "color": "green"
+    }
+  ],
+  "log": {
+    "lines": [
+      {
+        "source": "Adam",
+        "message": "Adam built a settlement"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam built a road"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett built a settlement"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett built a road"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June built a settlement"
+      },
+      {
+        "source": "June",
+        "message": "June built a road"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve built a settlement"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve built a road"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve built a settlement"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve built a road"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June built a settlement"
+      },
+      {
+        "source": "June",
+        "message": "June built a road"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett built a settlement"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett built a road"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam built a settlement"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam built a road"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam rolled a 6"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett rolled a 3"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June rolled a 10"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve rolled a 8"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam rolled a 7"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam moved the robber"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam built a road"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett rolled a 5"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett built a road"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June rolled a 9"
+      },
+      {
+        "source": "June",
+        "message": "June built a road"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve rolled a 7"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve moved the robber"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam rolled a 6"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett rolled a 4"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett built a road"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June rolled a 7"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve had to discarded cards"
+      },
+      {
+        "source": "June",
+        "message": "June moved the robber"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve rolled a 6"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam rolled a 9"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam built a road"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett rolled a 11"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June rolled a 3"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve rolled a 7"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve had to discarded cards"
+      },
+      {
+        "source": "June",
+        "message": "June had to discarded cards"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve moved the robber"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve bought a development card"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam rolled a 8"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett rolled a 10"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June rolled a 9"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve rolled a 5"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve used a road builder card"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve's turn ended"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam rolled a 2"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam built a settlement"
+      },
+      {
+        "source": "Adam",
+        "message": "Adam's turn ended"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett rolled a 9"
+      },
+      {
+        "source": "Garrett",
+        "message": "Garrett's turn ended"
+      },
+      {
+        "source": "June",
+        "message": "June rolled a 10"
+      },
+      {
+        "source": "June",
+        "message": "June built a road"
+      },
+      {
+        "source": "June",
+        "message": "June's turn ended"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve rolled a 5"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve built a city"
+      },
+      {
+        "source": "Steve",
+        "message": "Steve used a road builder card"
+      }
+    ]
+  },
+  "chat": {
+    "lines": []
+  },
+  "bank": {
+    "brick": 9,
+    "wood": 12,
+    "sheep": 16,
+    "wheat": 14,
+    "ore": 15
+  },
+  "turnTracker": {
+    "status": "rolling",
+    "currentTurn": 0
+  },
+  "biggestArmy": 0,
+  "longestRoad": 0,
+  "winner": 0,
+  "revision": 0
+}

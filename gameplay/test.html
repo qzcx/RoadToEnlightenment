@@ -1,0 +1,70 @@
+<html>
+<head>
+	<title>Ken-Tan Test Page</title>
+	<script type="text/javascript" src="/libs/jquery.js"></script>
+	<script type="text/javascript" src="/libs/bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/libs/cookies.js"></script>
+	
+	<!--my scripts-->
+	<script type="text/javascript" src="/impersonator.js"></script>
+	<script type="text/javascript" src="/rest.js"></script>
+	
+	<!-- libs-->
+	<link rel="stylesheet" type="text/css" href="/libs/bootstrap/css/bootstrap.css"/>
+	<link rel="stylesheet" type="text/css" href="/libs/bootstrap/css/bootstrap-responsive.css" >
+	
+	
+</head>
+<body>
+	<div id = player_changer>
+		<h2>Player Changer</h2>
+		<h3>Select Game</h3>
+		<select id = game_list>
+		</select>
+		<h3> Select Player </h3>
+		<select id = player_list>
+		</select>
+		<button type="button" onClick="nextPlayer()">Prev Player</button>
+		<button type="button" onClick="prevPlayer()">Next Player</button>
+	</div>
+	<br>
+	<div id = rest>
+		<h2>REST API Tester</h2>
+		<select id = rest_list>
+		</select>
+		<h5>Description: <span id = desc ></span></h5>
+		<h5>Request Method: <span id = req_method><span></h5>
+		<div id = json>
+			<h5>JSON: </h5>
+			<textarea rows="4" cols="50" id = jsonText>
+			</textarea>
+		</div>
+		
+		<div id = args>
+			<h5> Arguments: </h5>
+		</div>
+		<button id = try>Try it!</button>
+		<div id = comm>
+			<h5> Request Body: </h5>
+			<textarea rows="4" cols="50" id = request readonly>
+			</textarea>
+		
+			<h5> Response Body: </h5>
+			<textarea rows="4" cols="50" id = response readonly>
+			</textarea>
+		</div>
+	</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

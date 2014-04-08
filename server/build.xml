@@ -1,0 +1,83 @@
+﻿<project name="Demo Server" default="server" basedir=".">
+
+    <!-- PROPERTIES -->
+    <!-- ********** -->
+
+    <property name="lib" location="lib"/>
+    <property name="build" location="ant-build"/>
+    <property name="test" location="test"/>
+    <property name="src" location="src"/>
+
+    <path id="lib-classpath">
+        <fileset dir="${lib}">
+            <include name="**/*.jar" />
+        </fileset>
+    </path>
+
+    <path id="all-classpath">
+        <path refid="lib-classpath"/>
+        <pathelement location="${build}"/>
+    </path>
+    
+    <!-- Directory paths for the java server, javascript, and dest dir for the student copy -->
+    <property name="port.arg" value="8081"/>
+    <property name="web.arg" value="../gameplay"/>
+    <property name="requests.arg" value="ug"/>
+    
+    <!-- Base output folder -->
+    <property name="dest.dir" value="docs"/>
+    <!-- YUIDoc output Folder -->
+    <property name="yuidoc.dir" value="${dest.dir}/javascript"/>
+    <!-- Jar file path/name from here -->
+    <property name="jar.file" value="server.jar"/>
+    <!-- javascript source Folder -->
+    <property name="javascript.dir" value="${web.arg}/js"/>
+
+    <!-- TARGETS -->
+    <!-- ******* -->
+     
+    <target name="server" depends="compile" description="Runs the student server">
+        <java classname="server.Server" fork="yes">
+            <arg value="${port.arg}"/>
+            <arg value="${web.arg}"/>
+            <arg value="${requests.arg}"/>
+            <classpath>
+                <path refid="all-classpath"/>
+            </classpath>
+            <assertions>
+                <enable/>
+            </assertions>
+        </java>
+    </target>
+
+    <target name="init" description="create build directories">
+        <tstamp/>
+        <mkdir dir="${build}"/>
+    </target>
+
+    <target name="compile" depends="init" description="compile the source code">
+        <javac srcdir="${src}" classpathref="lib-classpath" destdir="${build}" debug="true" includeantruntime="true" />
+        <javac srcdir="${test}" classpathref="lib-classpath" destdir="${build}" debug="true" includeantruntime="true" />
+    </target>
+
+    <target name="server-tests" depends="compile" description="run automated server tests">
+        <java classname="server.ServerUnitTests" fork="yes">
+            <classpath>
+                <path refid="all-classpath"/>
+            </classpath>
+            <assertions>
+                <enable/>
+            </assertions>
+        </java>
+    </target>
+    
+    <target name="make-js-doc" description="Parse and produce the javascript docs">
+        <echo> Making javascript documentation</echo>
+        <exec executable="yuidoc">
+            <arg value="-o"/>
+            <arg value="${yuidoc.dir}"/>
+            <arg value="${javascript.dir}"/>
+        </exec>
+    </target>    
+</project>
+

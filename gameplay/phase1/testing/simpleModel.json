@@ -1,0 +1,139 @@
+{
+  "deck": {
+    "yearOfPlenty": 2,
+    "monopoly": 2,
+    "soldier": 10,
+    "roadBuilding": 1,
+    "monument": 4
+  },
+  "players": [
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 14,
+        "wood": 13,
+        "sheep": 15,
+        "wheat": 10,
+        "ore": 8
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 2,
+        "roadBuilding": 0,
+        "monument": 1
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 1,
+        "roadBuilding": 1,
+        "monument": 0
+      },
+      "roads": 8,
+      "cities": 2,
+      "settlements": 4,
+      "soldiers": 1,
+      "victoryPoints": 7,
+      "monuments": 0,
+      "longestRoad": true,
+      "largestArmy": false,
+      "playedDevCard": true,
+      "discarded": false,
+      "playerID": 0,
+      "orderNumber": 0,
+      "name": "Sam",
+      "color": "orange"
+    },
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 0,
+        "wood": 0,
+        "sheep": 0,
+        "wheat": 0,
+        "ore": 0
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "roads": 13,
+      "cities": 4,
+      "settlements": 3,
+      "soldiers": 0,
+      "victoryPoints": 2,
+      "monuments": 0,
+      "longestRoad": false,
+      "largestArmy": false,
+      "playedDevCard": false,
+      "discarded": false,
+      "playerID": 1,
+      "orderNumber": 1,
+      "name": "Brooke",
+      "color": "blue"
+    },
+    {
+      "MAX_GAME_POINTS": 10,
+      "resources": {
+        "brick": 1,
+        "wood": 0,
+        "sheep": 0,
+        "wheat": 0,
+        "ore": 0
+      },
+      "oldDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "newDevCards": {
+        "yearOfPlenty": 0,
+        "monopoly": 0,
+        "soldier": 0,
+        "roadBuilding": 0,
+        "monument": 0
+      },
+      "roads": 13,
+      "cities": 4,
+      "settlements": 3,
+      "soldiers": 0,
+      "victoryPoints": 2,
+      "monuments": 0,
+      "longestRoad": false,
+      "largestArmy": false,
+      "playedDevCard": false,
+      "discarded": false,
+      "playerID": 1,
+      "orderNumber": 1,
+      "name": "Brooke",
+      "color": "blue"
+    }
+  ],
+  "bank": {
+    "brick": 4,
+    "wood": 9,
+    "sheep": 1,
+    "wheat": 7,
+    "ore": 2
+  },
+  "turnTracker": {
+    "status": "Playing",
+    "currentTurn": 0
+  },
+  "biggestArmy": 2,
+  "longestRoad": 0,
+  "winner": -1
+}

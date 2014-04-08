@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>QUnit UNIT Tests</title>
+  <link rel="stylesheet" href="vendor/qunit.css">
+</head>
+<body>
+  <div id="qunit"></div>
+  <div id="qunit-fixture"></div>
+  <!-- VENDOR INCLUDES -->
+  <script src="vendor/jquery-1.10.2.min.js"></script>
+  <script src="vendor/qunit.js"></script>
+
+  <!-- PROJECT INCLUDES -->
+  <script src="../../js/Core.js"></script>
+  <script src="../catan/models/chat/chat.js"></script>
+  <script src="../catan/models/chat/message.js"></script>
+  <script src="../catan/models/chat/log.js"></script>
+  <script src="../catan/models/turn.js"></script>
+  <script src="../catan/models/client.js"></script>
+  <script src="../catan/models/map/edge.js"></script>
+  <script src="../catan/models/map/edgeValue.js"></script>
+  <script src="../catan/models/map/hex.js"></script>
+  <script src="../catan/models/map/hexgrid.js"></script>
+  <script src="../catan/models/map/direction.js"></script>
+  <script src="../catan/models/map/hexlocation.js"></script>
+  <script src="../catan/models/map/map.js"></script>
+  <script src="../catan/models/map/port.js"></script>
+  <script src="../catan/models/map/vertex.js"></script>
+  <script src="../catan/models/map/vertexValue.js"></script>
+  <script src="../catan/models/turn.js"></script>
+  <script src="../catan/models/resources.js"></script>
+  <script src="../catan/models/tradeOffer.js"></script>
+  <script src="../catan/models/player.js"></script>
+  <script src="../catan/models/devCards.js"></script>
+  <script src="../catan/models/deck.js"></script>
+  <script src="../catan/models/bank.js"></script>
+  
+  
+  <!-- TEST CASE INCLUDES -->
+  <script src="unit/models.js"></script>
+  <script src="unit/playerTest.js"></script>
+  <script src="unit/mapTest.js"></script>
+  <script src="unit/mapModel.js"></script>
+  
+</body>
+</html>

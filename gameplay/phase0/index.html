@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <title>CS340 Phase 0</title>
+
+  <!-- Application styles. -->
+  <!-- build:[href] /styles.min.css -->
+  <link rel="stylesheet" href="/phase0/app/styles/index.css">
+  <!-- /build -->
+</head>
+
+<body>
+  <!-- Application container. -->
+  <main role="main" id="main">
+    <br>
+    <div class="container span6">
+      <div class="well">
+        <h2>User Management</h2>
+        <hr>
+        <div class="user-management-container">
+          Loading...
+        </div>
+      </div>
+
+      <div class="well">
+        <h2>Catan REST Client</h2>
+        <hr>
+        <div class="route-select-container">
+          Loading...
+        </div>
+        <div class="route-form-container"></div>
+        <hr>
+        <div class="output">
+          <h3>Request:</h3>
+          <textarea class="request form-control" rows="5"></textarea>
+          <h3>Response:</h3>
+          <textarea class="response form-control" rows="10"></textarea>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <!-- Application source. -->
+  <!-- build:[src] /source.min.js -->
+  <script data-main="/phase0/app/main" src="/phase0/vendor/bower/requirejs/require.js"></script>
+  <!-- /build -->
+
+  <script id="alertSuccess" type="text/x-underscore-template">  
+    <div class="alert alert-success">Success!</div>
+  </script>
+
+  <script id="alertError" type="text/x-underscore-template">  
+    <div class="alert alert-danger">Error!</div>
+  </script>
+
+  <script id="selectorTemplate" type="text/x-underscore-template">
+    <div class="route-select">
+      <select class="form-control route-select-box">
+        <% _.each(collection, function(model) { %>
+          <option value="<%= model.url %>"><%= model.url %></option>
+        <% }); %>
+      </select>
+    </div>
+  </script>​
+
+  <script id="jsonEditor" type="text/x-underscore-template">
+    <div class="span6">
+      <h3>JSON Editor:</h3>
+      <div class="response-flash"></div>
+
+      <div class="about-route">
+        <ul>
+          <li>Description: <%= model.description %></li>
+          <li>Method: <%= model.method %></li>
+        </ul>
+      </div>
+
+      <form class="form-horizontal route-form" role="form">
+        <div class="form-group">
+          <textarea class="form-control json-editor" rows="5" value=""><%= JSON.stringify( model.template, undefined, 2 ) %></textarea>
+        </div>
+
+        <div class="form-group">
+          <button type="submit" class="btn btn-default">Send <%= model.method %></button>
+        </div>
+      </form>
+    </div>
+  </script>
+
+  <script id="formGenerator" type="text/x-underscore-template">
+    <div class="">
+      <h3>Form:</h3>
+      <div class="response-flash"></div>
+
+      <div class="about-route">
+        <ul>
+          <li>Description: <%= model.description %></li>
+          <li>Method: <%= model.method %></li>
+        </ul>
+      </div>
+
+      <form action="<%= model.url %>" class="form-horizontal route-form" role="form">
+      <% _.each(model.args, function(arg) { %>
+        <div class="form-group">
+          <label class="col-sm-2 control-label"><%= arg.name %></label>
+          <div class="col-sm-10">
+
+            <% if (arg.type == "STRING") { %>
+              <!-- //String Input -->
+              <input name="<%= arg.name %>" type="text" class="form-control rest-field"></input>
+            <% } else if (arg.type == "BOOLEAN") { %>
+              <!-- //Boolean Input -->
+              <select boolean="true" name="<%= arg.name %>" class="form-control rest-field">
+                <option value="true">true</option>
+                <option value="false">false</option>
+              </select>
+            <% } else if (arg.type == "INTEGER") { %>
+              <!-- //Integer Input -->
+              <input name="<%= arg.name %>" type="number" class="form-control rest-field"></input>
+            <% } else if (arg.type == "ENUMERATION") { %>
+              <!-- //Enumerated Input -->
+              <select name="<%= arg.name %>" class="form-control rest-field">
+                <% _.each(arg.values, function(value) { %>
+                  <option value="<%= value%>"><%= value%></option>
+                <% }); %>
+              </select>
+            <% } %>
+
+          </div>
+        </div>
+      <% }); %>
+
+        <div class="form-group">
+          <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-default">Send <%= model.method %></button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </script>​
+
+  <script id="gameManagerForm" type="text/x-underscore-template">
+    <div class="user-response-flash"></div>
+    <form class="form-horizontal user-form" role="form">
+
+      <div class="form-group">
+        <label class="col-sm-2 control-label">Game</label>
+        <div class="col-sm-10">
+          <select class="form-control game-selector">
+            <!-- // Game List -->
+            <% _.each(collection, function(game) { %>
+              <option value="<%= game.id %>"><%= game.title %></option>
+            <% }); %>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="inputPassword" class="col-sm-2 control-label">User</label>
+        <div class="col-sm-10">
+          <select name="username" class="form-control user-selector">
+            <!-- // User List -->
+            <% _.each(players, function(player) { %>
+              <option value="<%= player.name %>"><%= player.name %></option>
+            <% }); %>
+          </select>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="inputPassword" class="col-sm-2 control-label">Password</label>
+        <div class="col-sm-10">
+          <input name="password" type="text" class="form-control user-password"></input>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+          <button type="submit" class="btn btn-default">Change</button>
+        </div>
+      </div>
+
+    </form>
+  </script>
+
+</body>
+</html>
