@@ -51,7 +51,7 @@ public class Server {
 		Server.log.info("Configuring server...");
 
         // Set port here
-        setPort(1892);
+        setPort(80);
 
         // Set static directory to "gameplay"
         externalStaticFileLocation("../gameplay");
