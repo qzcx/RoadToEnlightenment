@@ -112,23 +112,23 @@ public class Server {
 		myGame.joinGame(new JoinGameRequest("green", "3"), "Bishop Eck");
 
         //past setup
-        myGame.createGame(new CreateGameRequest(true, true, true, "past startup"));
-        myGame.joinGame(new JoinGameRequest("purple", "3"), "Adam");
-        myGame.joinGame(new JoinGameRequest("blue", "3"), "June");
-
-//		now load an existing model from a json and put it in our Past Setup game
-		try {
-			String gameJson = new Scanner(new File("PastSetupGame.json")).useDelimiter("\\Z").next();
-			Game game = JsonImpl.fromJson(gameJson, GameImpl.class);
-			myGame.getGames().get(4).setData(game);
-
-//			gameJson = new Scanner(new File("HalfWayGame.json")).useDelimiter("\\Z").next();
-//			game = JsonImpl.fromJson(gameJson, GameImpl.class);
-//			myGame.getGames().get(3).setData(game);
-
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
+//        myGame.createGame(new CreateGameRequest(true, true, true, "past startup"));
+//        myGame.joinGame(new JoinGameRequest("purple", "3"), "Adam");
+//        myGame.joinGame(new JoinGameRequest("blue", "3"), "June");
+//
+////		now load an existing model from a json and put it in our Past Setup game
+//		try {
+//			String gameJson = new Scanner(new File("PastSetupGame.json")).useDelimiter("\\Z").next();
+//			Game game = JsonImpl.fromJson(gameJson, GameImpl.class);
+//			myGame.getGames().get(4).setData(game);
+//
+////			gameJson = new Scanner(new File("HalfWayGame.json")).useDelimiter("\\Z").next();
+////			game = JsonImpl.fromJson(gameJson, GameImpl.class);
+////			myGame.getGames().get(3).setData(game);
+//
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
     }
 
     private static class UserCookie extends JsonImpl{

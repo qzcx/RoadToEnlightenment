@@ -28,10 +28,6 @@ public class Model extends JsonImpl {
 
     @Inject
     public void initUsers(){
-        //Past Setup
-        addUser("Adam", "adam");
-        addUser("June", "june");
-
         //WWI
         addUser("Wilhelm II", "default");
         addUser("Nicholas II", "default");
